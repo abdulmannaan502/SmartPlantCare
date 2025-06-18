@@ -113,7 +113,4 @@ This project is licensed under the MIT License.
 
 ---
 
-## Contact
-
 - Created by Abdul Mannaan
-- GitHub: https://github.com/abdulmannaan502/PlantDiseaseDetectPro
