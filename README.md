@@ -3,6 +3,10 @@
 🌿 **PlantDiseaseDetectPro** is an AI-powered web app that detects diseases in pepperbell, potato, and tomato plants from leaf images. It provides accurate disease classification along with actionable care advice to help farmers and gardeners keep their crops healthy.
 
 ---
+## Webpage
+![Alt text](https://github.com/abdulmannaan502/SmartPlantCare/blob/main/Images/1.png)
+![Alt text](https://github.com/abdulmannaan502/SmartPlantCare/blob/main/Images/2.png)
+---
 
 ## Features
 
