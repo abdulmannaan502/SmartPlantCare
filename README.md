@@ -4,8 +4,8 @@
 
 ---
 ## Webpage
-![Alt text](https://github.com/abdulmannaan502/SmartPlantCare/blob/main/Images/1.png)
 ![Alt text](https://github.com/abdulmannaan502/SmartPlantCare/blob/main/Images/2.png)
+![Alt text](https://github.com/abdulmannaan502/SmartPlantCare/blob/main/Images/1.png)
 ---
 
 ## Features
